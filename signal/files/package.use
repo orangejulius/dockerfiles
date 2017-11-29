@@ -1,0 +1,6 @@
+app-crypt/gcr gtk
+app-crypt/pinentry gnome-keyring
+app-text/ghostscript-gpl cups
+x11-libs/cairo X
+net-misc/iputils -caps -filecaps
+media-plugins/alsa-plugins pulseaudio
