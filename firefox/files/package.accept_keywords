@@ -1,0 +1,57 @@
+# required by dev-lang/rust-1.19.0::gentoo
+# required by virtual/rust-1.19.0::gentoo
+# required by www-client/firefox-57.0::gentoo
+# required by firefox (argument)
+=dev-util/cargo-0.21.0 ~amd64
+# required by net-misc/networkmanager-1.8.4::gentoo[nss]
+# required by @network
+# required by @selected
+# required by @world (argument)
+=dev-libs/nss-3.34 ~amd64
+# required by sys-devel/clang-5.0.0::gentoo
+# required by sys-libs/compiler-rt-5.0.0::gentoo[clang]
+=sys-devel/clang-runtime-5.0.0 ~amd64
+# required by www-client/firefox-57.0::gentoo
+# required by firefox (argument)
+=dev-libs/nspr-4.17 ~amd64
+# required by sys-devel/clang-runtime-5.0.0::gentoo[compiler-rt]
+# required by sys-devel/clang-5.0.0::gentoo
+# required by www-client/firefox-57.0::gentoo
+# required by firefox (argument)
+=sys-libs/compiler-rt-5.0.0 ~amd64
+# required by sys-devel/clang-runtime-5.0.0::gentoo[openmp]
+# required by sys-devel/clang-5.0.0::gentoo
+# required by sys-libs/compiler-rt-5.0.0::gentoo[clang]
+=sys-libs/libomp-5.0.0 ~amd64
+# required by www-client/firefox-57.0::gentoo
+# required by firefox (argument)
+=virtual/rust-1.19.0 ~amd64
+# required by www-client/firefox-57.0::gentoo
+# required by firefox (argument)
+=sys-devel/clang-5.0.0 ~amd64
+# required by sys-devel/clang-runtime-5.0.0::gentoo[sanitize,compiler-rt]
+# required by sys-devel/clang-5.0.0::gentoo
+# required by sys-libs/compiler-rt-5.0.0::gentoo[clang]
+=sys-libs/compiler-rt-sanitizers-5.0.0 ~amd64
+# required by net-print/cups-filters-1.16.4::gentoo[png]
+# required by net-print/cups-2.1.4::gentoo
+# required by x11-libs/gtk+-2.24.31-r1::gentoo[cups]
+# required by www-client/firefox-57.0::gentoo
+# required by firefox (argument)
+=media-libs/libpng-1.6.34 ~amd64
+# required by sys-devel/clang-5.0.0::gentoo
+# required by sys-libs/compiler-rt-5.0.0::gentoo[clang]
+# required by sys-devel/clang-runtime-5.0.0::gentoo[compiler-rt]
+=sys-devel/llvm-5.0.0 ~amd64
+# required by sys-devel/llvm-5.0.0::gentoo
+# required by sys-devel/clang-5.0.0::gentoo
+# required by sys-libs/compiler-rt-5.0.0::gentoo[clang]
+# required by sys-devel/clang-runtime-5.0.0::gentoo[compiler-rt]
+=sys-devel/llvm-common-5.0.0 ~amd64
+# required by virtual/rust-1.19.0::gentoo
+# required by www-client/firefox-57.0::gentoo
+# required by firefox (argument)
+=dev-lang/rust-1.19.0 ~amd64
+~media-libs/mesa-17.2.5
+=x11-libs/libdrm-2.4.88 ~amd64
+=www-client/firefox-59.0.2

@@ -1,0 +1,8 @@
+# required by x11-libs/gtk+-3.22.16::gentoo
+# required by www-client/firefox-52.4.0::gentoo[-gtk2]
+# required by firefox (argument)
+>=x11-libs/cairo-1.14.8 X
+# required by www-client/firefox-52.4.0::gentoo
+# required by firefox (argument)
+>=media-libs/libpng-1.6.29 apng
+dev-lang/python sqlite
